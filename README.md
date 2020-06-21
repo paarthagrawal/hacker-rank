@@ -1,5 +1,5 @@
-#1 
-You are given an integer, . Your task is to print an alphabet rangoli of size . (Rangoli is a form of Indian folk art based on creation of patterns.)
+#1 https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+  You are given an integer, . Your task is to print an alphabet rangoli of size . (Rangoli is a form of Indian folk art based on creation of patterns.)
 Different sizes of alphabet rangoli are shown below:
 The center of the rangoli has the first alphabet letter a, and the boundary has the  alphabet letter (in alphabetical order).
 Input Format
@@ -8,7 +8,8 @@ Constraints
 
 
 
-#2 Kevin and Stuart want to play the 'The Minion Game'.
+#2 https://www.hackerrank.com/challenges/the-minion-game/problem 
+Kevin and Stuart want to play the 'The Minion Game'.
 
 Game Rules
 Both players are given the same string, .
