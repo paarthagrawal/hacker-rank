@@ -1,4 +1,5 @@
 Kevin and Stuart want to play the 'The Minion Game'.
+
 Game Rules
 Both players are given the same string, .
 Both players have to make substrings using the letters of the string .
